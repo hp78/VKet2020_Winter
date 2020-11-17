@@ -1,0 +1,36 @@
+Key,English,日本語
+pleaseLogin,Please login.,ログインしてください。
+loginProgress,Login process in progress...,ログイン処理中です...
+loginSucceeded,Login successful!,ログインに成功しました！
+loginFailed,"Login failed. If it fails repeatedly, restart Unity.",ログインに失敗しました。繰り返し失敗する場合はUnityの再起動をお試しください。
+fetchContents,Fetch Contents,コンテンツ一覧の更新
+fetching,Fetching contents...,情報の更新中です...
+contentsUpdated,Contents list update complete.,コンテンツ一覧の更新が完了しました。
+failedGetContent,Failed to get content.,コンテンツの取得に失敗しました。
+failedGetThumbnails,Failed to get thumbnails.,サムネイル画像の取得に失敗しました。
+failedFindContent,Failed to find content.,該当するコンテンツが見つかりませんでした。
+failedAddContent,Failed to add content.,コンテンツの追加に失敗しました。
+copyId,Copy ID,コンテンツIDのコピー
+copiedId,ID copied to clipboard.,コンテンツIDをクリップボードにコピーしました。
+pleaseContentId,Please enter Content Id.,コンテンツIDを入力してください。
+invalidContentId,Content Id is invalid.,有効なコンテンツIDを入力してください。
+notFoundContentId,Content Id dose not exist.,指定のコンテンツIDが存在しません。
+deletePreview,Delete Preview model,プレビューモデルの削除
+notFoundPreview,Preview model does not exist.,プレビューモデルはありません
+wantDeletePreview,Do you want to delete the preview model?,プレビューモデルを削除してよろしいですか？
+deletingPreview,Deleting preview model...,プレビューモデルの削除中です...
+deleteSucceeded,Delete succeeded!,削除が完了しました。
+deleteFailed,Delete failed.,削除に失敗しました。
+exportingEncrypted,Encrypting & Exporting...,暗号化して出力中です...
+exporting,Exporting...,出力中です...
+uploading,Uploading...,アップロード中です...
+uploadFailed,Upload failed.,アップロードに失敗しました。
+exportAndUploadSucceeded,Export and Upload succeeded!,アップロードに成功しました！
+exportAndUploadFailed,Export/Upload failed.,出力およびアップロードに失敗しました。
+overwriteModel,The model has already been registered. Do you want to overwrite?,すでにプレビュー用モデルが登録されています。上書きしてよろしいですか？
+invalidScrambleVersion,Scramble version is invalid.,暗号化バージョン指定が不正です。
+fileNotFound,File not found.,ファイルが見つかりません。
+ok,OK,OK
+cancel,Cancel,キャンセル
+overwrite,Overwrite,上書き
+delete,Delete,削除

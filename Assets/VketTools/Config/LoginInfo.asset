@@ -1,0 +1,90 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 03b0fcb5a8eb0e644b0408d84c648ade, type: 3}
+  m_Name: LoginInfo
+  m_EditorClassIdentifier: 
+  data:
+    status: 
+    is_owner: 0
+    user_id: 0
+    name: 
+    user_icon: 
+    circle:
+      id: 0
+      user_id: 0
+      name: 
+      icon:
+        url: 
+        small:
+          url: 
+        large:
+          url: 
+      about: 
+      event_version: 0
+      deleted: 0
+      header_image:
+        url: 
+      header_text: 
+      created_at: 
+      updated_at: 
+      users:
+        hash_array: []
+        user_array: 
+        confirm: 0
+    space:
+      id: 0
+      user_id: 0
+      world: 
+      section: 
+      event_version: 0
+      sel_world_1: 0
+      confirmed_size: 0
+      size: 0
+      circle_id: 0
+      share_url: 
+      confirmed_section: 
+      created_at: 
+      updated_at: 
+  hashKey: 
+  vrcLaunchFlag: 1
+  worldData:
+    status: 
+    world_name: 
+    world_name_en: 
+    world_num: 0
+  previewPlaceHopeFlag: 0
+  mainSubmissionFlag: 0
+  dcThumbnailUpdateFlag: 0
+  dcInfoData:
+    status: 
+    space_id: 0
+    circle_id: 0
+    circle_name: 
+    circle_name_en: 
+    icon: 
+    image:
+      url: 
+      small:
+        url: 
+  submissionTerm:
+    status: 
+    message: 
+    server_time: 0
+    once_time:
+      start: 0
+      end: 0
+    second_time:
+      start: 0
+      end: 0
+    last_time:
+      start: 0
+      end: 0

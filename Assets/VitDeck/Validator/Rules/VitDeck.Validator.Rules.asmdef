@@ -1,0 +1,23 @@
+{
+    "name": "VitDeck.Validator.Rules",
+    "references": [
+        "VitDeck.Utilities",
+        "VitDeck.Validator.Components",
+        "VitDeck.Validator.Runtime",
+        "VitDeck.Language",
+        "VRC.Udon",
+        "VRC.Udon.Editor",
+        "UdonSharp.Runtime",
+        "UdonSharp.Editor"
+    ],
+    "optionalUnityReferences": [],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": []
+}

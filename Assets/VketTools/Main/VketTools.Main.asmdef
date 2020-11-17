@@ -1,0 +1,28 @@
+{
+    "name": "VketTools.Main",
+    "references": [
+        "VketTools.Utilities",
+        "VitDeck.Utilities",
+        "VitDeck.Validator.GUI",
+        "VitDeck.Main",
+        "VitDeck.Main.ValidatedExporter.GUI",
+        "VitDeck.Main.ValidatedExporter",
+        "VitDeck.Exporter",
+        "VketTools.Utilities.SS",
+        "VitDeck.Validator",
+        "VitDeck.Validator.Components",
+        "VitDeck.Validator.Rules",
+        "VitDeck.TemplateLoader.GUI",
+        "VitDeck.TemplateLoader"
+    ],
+    "optionalUnityReferences": [],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": []
+}
